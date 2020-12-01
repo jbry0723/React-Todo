@@ -1,0 +1,10 @@
+.clearbtn{
+   
+}
+form{
+    display:inline
+}
+
+.completed{
+    text-decoration: line-through;
+}
